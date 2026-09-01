@@ -1,6 +1,2 @@
-print('HELLO'
-      )
 
-print('sencdon')
-print('dierc')
-print("Hello, World!")
+print("修改主分支了")
